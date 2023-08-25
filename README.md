@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on [Expense tracker](https://github.com/aaavramenk0/expense-tracker)<br>
-🌱 I’m currently learning **ReactJS, NextJS TypeScript, and other web development technologies**<br>
-👯 I’m looking to collaborate on [Photographer website](https://github.com/aaavramenk0/photographer-website)<br>
-🤝 I’m looking for help with [Weather website](https://github.com/aaavramenk0/Weather-WebApp)<br>
-📫 How to reach me **oleksandr.avramenko2004@gmail.com**<br>
-⚡ Fun fact **My dream is to open an IT company and give a start to many successful IT careers**
+Welcome to my GitHub profile! I'm a highly motivated MERN stack developer, passionate about crafting innovative and user-centric web applications. My journey began at Brigham Young University-Idaho, where I’m pursuing a BS in Applied Technology, specializing in Web Development. Proficient in HTML, CSS, JavaScript, React JS, Node JS, Express.js, MongoDB, and more, I thrive in collaborative environments. I've honed my skills through experiential projects, mastering frontend and backend development, API integration, and testing.
+
+My dedication to delivering high-quality code and attention to detail has been reinforced by diverse work experiences. As a Ukrainian-English interpreter, I excelled under pressure with unwavering accuracy. As a lawn care technician, I embraced efficient time management and precision.
+
+Now, I'm eager to contribute my expertise to a dynamic team, fueling my growth both professionally and personally. If you're seeking a dedicated and adaptable developer to create remarkable experiences together, let's connect!
 
 
 ## 🌐 Socials:
