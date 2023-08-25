@@ -1,9 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on [Expense tracker](https://github.com/aaavramenk0/expense-tracker)<br>
-🌱 I’m currently learning **ReactJS, AngularJS, TypeScript, and other web development technologies**<br>
+🌱 I’m currently learning **ReactJS, NextJS TypeScript, and other web development technologies**<br>
 👯 I’m looking to collaborate on [Photographer website](https://github.com/aaavramenk0/photographer-website)<br>
 🤝 I’m looking for help with [Weather website](https://github.com/aaavramenk0/Weather-WebApp)<br>
-👨‍💻 All of my projects are available at [www.oleksandravramenko.com](www.oleksandravramenko.com)<br>
 📫 How to reach me **oleksandr.avramenko2004@gmail.com**<br>
 ⚡ Fun fact **My dream is to open an IT company and give a start to many successful IT careers**
 
